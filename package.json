@@ -1,0 +1,20 @@
+{
+  "name": "templates",
+  "version": "1.0.0",
+  "description": "template demos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhyuanzhu/templates.git"
+  },
+  "author": "zhyuanzhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhyuanzhu/templates/issues"
+  },
+  "homepage": "https://github.com/zhyuanzhu/templates#readme",
+  "dependencies": {}
+}
