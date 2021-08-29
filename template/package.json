@@ -1,0 +1,30 @@
+{
+  "name": "<%= name %>",
+  "version": "<%= version %>",
+  "description": "<%= description %>",
+  "private": true,
+  "keywords": ["<%= name %>"],
+  "repository": "<% github %>/<%= name %>",
+  "scripts": {
+    "start": "react-script start",
+    "build": "react-script build"
+  },
+  "author": "<%= name %> <<%= email %>",
+  "license": "ISC",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version"
+    ]
+  },
+  "devDependencies": {
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "4.0.3"
+  }
+}
