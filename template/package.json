@@ -1,15 +1,11 @@
 {
   "name": "<%= name %>",
   "version": "<%= version %>",
-  "description": "<%= description %>",
   "private": true,
-  "keywords": ["<%= name %>"],
-  "repository": "<% github %>/<%= name %>",
   "scripts": {
     "start": "react-script start",
     "build": "react-script build"
   },
-  "author": "<%= name %> <<%= email %>",
   "license": "ISC",
   "browserslist": {
     "production": [
